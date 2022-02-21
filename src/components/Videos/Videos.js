@@ -6,6 +6,11 @@ const Videos = () => {
     return (
         <div className={style.videos}>
             <Video />
+            <Video />
+            <Video />
+            <Video />
+            <Video />
+            <Video />
         </div>
     );
 };
